@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebApiConfig.cs](./CS/MyRestService/App_Start/WebApiConfig.cs) (VB: [WebApiConfig.vb](./VB/MyRestService/App_Start/WebApiConfig.vb))
+* [Category.cs](./CS/MyRestService/Category.cs) (VB: [Category.vb](./VB/MyRestService/Category.vb))
+* **[CategoriesController.cs](./CS/MyRestService/Controllers/CategoriesController.cs) (VB: [CategoriesController.vb](./VB/MyRestService/Controllers/CategoriesController.vb))**
+* [Global.asax.cs](./CS/MyRestService/Global.asax.cs) (VB: [Global.asax.vb](./VB/MyRestService/Global.asax.vb))
+* [WebApiDataSourceLoadOptions.cs](./CS/MyRestService/WebApiDataSourceLoadOptions.cs) (VB: [WebApiDataSourceLoadOptions.vb](./VB/MyRestService/WebApiDataSourceLoadOptions.vb))
+<!-- default file list end -->
 # How to implement a data service that supports remote operations for dxDataGrid
 
 
